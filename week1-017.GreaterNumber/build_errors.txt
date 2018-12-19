@@ -1,0 +1,6 @@
+
+BUILD FAILED
+/Users/iosdev/NetBeansProjects/metropolia-TX00CR57-3002/week1-017.GreaterNumber/nbproject/build-impl.xml:603: The following error occurred while executing this line:
+/Users/iosdev/NetBeansProjects/metropolia-TX00CR57-3002/week1-017.GreaterNumber/nbproject/build-impl.xml:245: Compile failed; see the compiler error output for details.
+
+Total time: 2 seconds
